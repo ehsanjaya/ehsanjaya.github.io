@@ -19,6 +19,7 @@ pramartaej@gmail.com
 ***
 
 ## Skills
+
 C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
 
 ***
@@ -31,7 +32,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     ![HAKI](/assets/img/haki_planetarium360.png)
   
     Referensi:  
-    [Pangkalan Data Kekayaan Intelektual](https://pdki-indonesia.dgip.go.id/detail/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855) 
+    [Pangkalan Data Kekayaan Intelektual](https://pdki-indonesia.dgip.go.id/link/45433030323032353138353239307c636f70797269676874) 
 
 2. **2025 - Bina Talenta Indonesia - Puspresnas**  
     *Terpilih dari seleksi 5000 peserta seluruh Indonesia untuk mengikuti program pembinaan talenta berprestasi bidang Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas.*
