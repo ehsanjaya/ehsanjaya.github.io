@@ -19,7 +19,7 @@ pramartaej@gmail.com
 ***
 
 ## Skills
-Programming: C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
+C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
 
 ***
 
