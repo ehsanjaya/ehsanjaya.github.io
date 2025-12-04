@@ -1,77 +1,130 @@
-# John Doe
+# Pramarta Ehsan Jaya
 
-**Frontend Developer**
-Amsterdam, Netherlands | johndoe@example.com | +31 6 12345678 | (https://linkedin.com/in/johndoe)\[LinkedIn]
-
-***
-
-## Experience
-
-**Frontend Developer at Cloudify Solutions**
-*Amsterdam, Netherlands | June 2022 – Present | 1 year 6 months*
-
-* Developed and maintained web-based applications using React, JavaScript, and TypeScript.
-* Migrated a complex AngularJS application to React for enhanced maintainability and user experience.
-* Created reusable UI components, improving consistency across the product and reducing development time for new features.
-* Collaborated closely with the UX/UI team to deliver engaging and responsive interfaces.
-
-**Junior Frontend Developer at TechSphere**
-*Berlin, Germany | June 2021 – May 2022 | 1 year*
-
-* Contributed to the development of a new customer portal, implementing a fresh design using Bootstrap and React.
-* Assisted with the integration of RESTful API services for better data visualization in dashboards.
-* Worked in a Scrum environment, closely with designers and backend developers to meet client requirements.
+14 tahun | Lumajang, Jawa Timur | pramartaej@gmail.com | 0851-8685-3020 | [github.com/ehsanjaya](https://github.com/ehsanjaya) | [puspresnas](https://portal-pusatprestasinasional.kemdikbud.go.id/resume?id=7aRFGGMBbE_kc-US-WZlSQ&name=pramarta-ehsan-jaya)
 
 ***
 
-## Projects
+## Riwayat Pendidikan
 
-**TaskBuddy**
-*A task management web app built to help users organize their daily activities efficiently.*
-
-* Developed using Vue.js and Tailwind CSS for a responsive and clean user experience.
-* Implemented offline capabilities using IndexedDB for a smoother experience without an internet connection.
-* Enhanced the user experience with intuitive UI and task categorization features.
-
-**DevBoard**
-*An open-source project management dashboard application for small teams to track tasks and goals.*
-
-* Built with React, TypeScript, and MaterialUI, providing a seamless experience.
-* Integrated Redux for state management and Axios to handle API requests.
-* Utilized Jest for unit tests to ensure code quality and reliability.
+- 2019 - SDN 3 Tompokersan Lumajang
+- 2021 - Homeschooling  
+- 2024 - MTS Negeri 1 Lumajang  
 
 ***
 
 ## Skills
-
-* **Programming Languages**: JavaScript, TypeScript, HTML, CSS
-* **Frameworks**: React, Vue.js, Tailwind CSS, Bootstrap, MaterialUI
-* **Tools**: Git, VS Code, Jira, Webpack
+Programming: C#, Kotlin, Python, Unity, Android Jetpack Compose, YOLO
 
 ***
 
-## Education
+## Prestasi
 
-**Bachelor of Science in Computer Science**
-*Berlin University of Technology | 2017 – 2021*
+1. **2025 - Hak Cipta (IP) HAKI EC002025185290**  
+    *HAKI Nomor 001025550, Jenis Ciptaan: Program Komputer, Judul Ciptaan: Planetarium 360: Aplikasi Planetarium Multi Platform pada Desktop, Mobile dan Virtual Reality (VR) Berbahasa Indonesia.*
+
+    ![HAKI](/assets/img/haki_planetarium360.png)
+  
+    Referensi:  
+    [Pangkalan Data Kekayaan Intelektual](https://pdki-indonesia.dgip.go.id/detail/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855) 
+
+2. **2025 - Bina Talenta Indonesia - Puspresnas**  
+    *Terpilih dari seleksi 5000 peserta seluruh Indonesia untuk mengikuti program pembinaan talenta berprestasi bidang Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas.*
+
+    Referensi:  
+    [Bina Talenta Indonesia](https://binatalenta.kemendikdasmen.go.id) 
+
+3. **2025 - Gold Bidang Inovasi Berbasis Kemanusiaan dan Sosial InYSIA 2025 - Proses Puspresnas**  
+    *Indonesia Young Scientists and Inventors Award 2025 (Abak Academy), Universitas Gajah Mada (UGM), Yogyakarta.*  
+    [emurojaahquran.github.io](https://emurojaahquran.github.io/)
+
+    ![InYSIA](/assets/img/inysia_2025.png)
+  
+  
+    Referensi:  
+    [InYSIA](https://inysia.com/finalis-inysia-jenjang-smp-mts-sederajat)  
+    [Pemenang InYSIA](https://www.youtube.com/live/JXrVFrt_8IY?si=M_hy06JoxzwXHJhv)
+
+4. **2025 - Juara 2 Bidang Komputer Lomba Peneliti Belia PUTech 2025 - Proses Puspresnas**  
+    *Lomba Peneliti Belia & International Scientific Paper Competition 2025, Politeknik PU (PUtech) Semarang.*  
+    
+    ![Sertifikat](/assets/img/lpb_2025.png)  
+    ![LPB](/assets/img/lpb_2025_1.png)
+   
+    Referensi:  
+    [Berita Jatim](https://beritajatim.com/pelajar-madrasah-lumajang-raih-prestasi-tingkat-nasional)  
+    [Politeknik PU](https://politeknikpu.ac.id/2025/09/05/putechnovation-2025-resmi-ditutup-inilah-para-pemenang-lpb-dan-lkti)
+    
+5. **2025 - Best Top 4 Indonesia Aerospace Hakathon 2025 - Pengajuan Puspresnas**  
+    *21st Asia Pacific Satellite International Conference Hakathon 2025 diselenggarakan Asosiasi Satelit Seluruh Indonesia (ASSI), Fairmont Hotel Jakarta.*  
+
+    [planetarium360.github.io](https://planetarium360.github.io/)
+
+    ![Sertifikat](/assets/img/apsat_2025.png)  
+    ![LPB](/assets/img/apsat_2025_1.png)
+  
+    Referensi:  
+    [Kemenag Jatim](https://jatim.kemenag.go.id/berita/543232/kembangkan-aplikasi-planetarium360-tim-mtsn-1-lumajang-berhasil-raih-top-4-indonesia-aerospace-hakathon-2025)  
+    [Dinas Kominfo Jatim](https://kominfo.jatimprov.go.id/berita/aplikasi-planetarium360-antarkan-tim-mtsn-1-lumajang-masuk-top-4-indonesia-aerospace-hackathon-2025)
+
+6. **2025 - Semifinalis OPSI 2025 - Puspresnas**  
+    *Olimpiade Penelitian Siswa Indonesia 2025.*  
+
+    [kodingbotapp.github.io](https://kodingbotapp.github.io/)
+
+    ![Keterangan](/assets/img/opsi_2025.png)  
+
+7. **2025 - Finalis Kreasi 2025**  
+    *Kompetisi Riset dan Inovasi Siswa Indonesia 2025, Jakarta.*  
+
+    ![Keterangan](/assets/img/kreasi_2025.png)  
+
+8. **2025 - 1st Place 14th World Robotic For Peace**  
+    *Coding game animation by Scratch.*  
+
+    ![Keterangan](/assets/img/irtc_2025.png)  
+    Referensi:  
+    [Pemenang IRTC](https://rapmafm-ukm.ums.ac.id/2025/01/dua-siswa-man-1-pasuruan-raih-medali.html)  
+
+8. **2024 - Gold Indonesian Scratch Competition 2024 - Puspresnas**  
+    *Coding game animation by Scratch.*  
+
+    ![Keterangan](/assets/img/isc_2024.png)  
+    Referensi:  
+    [Fitalenta](https://isc.fitalenta.co.id/projects)  
+    [Pembuatan Project](https://www.youtube.com/watch?v=ezdoBcfuRQU)  
+    [Awarding Pemenang](https://www.youtube.com/live/1mCWyoKpBj0?si=AUxDArBQN8U0P0K6&t=4951) 
+
+9. **2024 - Perak International Scratch Olympiad 2024**  
+    *Coding game animation by Scratch.*  
+
+    ![Keterangan](/assets/img/scratch_olympiad_2025.png)  
+    Referensi:  
+    [Creative Programming](https://creativeprogramming.org/)  
+    [Pemenang](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_LsrbCla-k-n4MCEyAa8WUxYI6xCJMAzdb8F43iRBvfG35iekVD0w-8MkZhKKTQ/pubhtml) 
+
+
+10. **2024 - Juara 3 Kejurnas Robotika Nasional**  
+    *Game Animation Scratch, Surabaya.*  
+
+    ![Keterangan](/assets/img/irtc_2024.png)  
+    Referensi:  
+    [Creative Programming](https://creativeprogramming.org/)  
+    [Pemenang](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_LsrbCla-k-n4MCEyAa8WUxYI6xCJMAzdb8F43iRBvfG35iekVD0w-8MkZhKKTQ/pubhtml) 
+
+11. **2024 - Best Script Information Technology Creative Competition 2024**  
+    *Teknologi Informasi, Fakultas Teknik, Universitas Udayana, Bali.*  
+
+    ![Keterangan](/assets/img/itcc_2024.png)  
+    Referensi:  
+    [ITCC](https://itcc.hmtiudayana.id/)  
+ 
+12. **2023 - Juara 2 Lomba Scratch Coding Elass 2023**  
+
+    ![Keterangan](/assets/img/erlass_2023.png)  
+
+12. **2023 - Juara 1 Kodingbean Kompetisi Coding Nasional 2023**  
+
+    ![Keterangan](/assets/img/kkcn_2023.png)  
 
 ***
 
-## Languages
-
-* **English**: Fluent
-* **German**: Intermediate
-* **Dutch**: Basic
-
-***
-
-## Certificates
-
-* **Frontend Developer Certification** - FreeCodeCamp
-* **JavaScript Specialist** - W3Schools
-
-***
-
-## Interests
-
-* **Hobbies**: Exploring new JavaScript frameworks, playing guitar, running, and photography.
