@@ -1,6 +1,6 @@
 # Pramarta Ehsan Jaya
 
-![HAKI](/assets/img/ehsan.png)
+![Pramarta Ehsan Jaya](/assets/img/ehsan.png)
 
 14 tahun | Lumajang, Jawa Timur  
 pramartaej@gmail.com  
