@@ -6,7 +6,7 @@
 pramartaej@gmail.com  
 0851-8685-3020  
 [github.com/ehsanjaya](https://github.com/ehsanjaya)  
-[puspresnas](https://portal-pusatprestasinasional.kemdikbud.go.id/resume?id=7aRFGGMBbE_kc-US-WZlSQ&name=pramarta-ehsan-jaya)
+[puspresnas](https://simt.kemendikdasmen.go.id/resume?id=7aRFGGMBbE_kc-US-WZlSQ&name=pramarta-ehsan-jaya)
 
 ***
 
