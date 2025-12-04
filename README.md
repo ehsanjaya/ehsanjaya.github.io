@@ -2,7 +2,11 @@
 
 ![HAKI](/assets/img/ehsan.png)
 
-14 tahun | Lumajang, Jawa Timur | pramartaej@gmail.com | 0851-8685-3020 | [github.com/ehsanjaya](https://github.com/ehsanjaya) | [puspresnas](https://portal-pusatprestasinasional.kemdikbud.go.id/resume?id=7aRFGGMBbE_kc-US-WZlSQ&name=pramarta-ehsan-jaya)
+14 tahun | Lumajang, Jawa Timur  
+pramartaej@gmail.com  
+0851-8685-3020  
+[github.com/ehsanjaya](https://github.com/ehsanjaya)  
+[puspresnas](https://portal-pusatprestasinasional.kemdikbud.go.id/resume?id=7aRFGGMBbE_kc-US-WZlSQ&name=pramarta-ehsan-jaya)
 
 ***
 
@@ -15,7 +19,7 @@
 ***
 
 ## Skills
-Programming: C#, Kotlin, Python, Unity, Android Jetpack Compose, YOLO
+Programming: C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
 
 ***
 
