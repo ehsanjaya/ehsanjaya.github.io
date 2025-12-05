@@ -12,9 +12,9 @@ pramartaej@gmail.com
 
 ## Riwayat Pendidikan
 
-- 2019 - SDN 3 Tompokersan Lumajang
-- 2021 - Homeschooling  
 - 2024 - MTS Negeri 1 Lumajang  
+- 2021 - Homeschooling  
+- 2019 - SDN 3 Tompokersan Lumajang
 
 ***
 
@@ -62,16 +62,22 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [Politeknik PU](https://politeknikpu.ac.id/2025/09/05/putechnovation-2025-resmi-ditutup-inilah-para-pemenang-lpb-dan-lkti)
     
 5. **2025 - Best Top 4 Indonesia Aerospace Hakathon 2025 - Pengajuan Puspresnas**  
-    *21st Asia Pacific Satellite International Conference Hakathon 2025 diselenggarakan Asosiasi Satelit Seluruh Indonesia (ASSI), Fairmont Hotel Jakarta.*  
+    *Satu-satunya peserta sekolah menengah pertama yang terpilih best top 4 diantara mahasiswa UI, PENS, Binus dan UPN di 21st Asia Pacific Satellite International Conference Hakathon 2025 diselenggarakan Asosiasi Satelit Seluruh Indonesia (ASSI), Fairmont Hotel Jakarta.*  
 
     [planetarium360.github.io](https://planetarium360.github.io/)
 
     ![Sertifikat](/assets/img/apsat_2025.png)  
-    ![LPB](/assets/img/apsat_2025_1.png)
+    ![APSAT](/assets/img/apsat_2025_1.png)  
+    ![Booth](/assets/img/apsat_2025_2.png)  
+    ![PSN](/assets/img/apsat_2025_3.png)  
   
     Referensi:  
+    [ASSI](https://www.instagram.com/p/DL9jJ-2Tib4/)     
     [Kemenag Jatim](https://jatim.kemenag.go.id/berita/543232/kembangkan-aplikasi-planetarium360-tim-mtsn-1-lumajang-berhasil-raih-top-4-indonesia-aerospace-hakathon-2025)  
-    [Dinas Kominfo Jatim](https://kominfo.jatimprov.go.id/berita/aplikasi-planetarium360-antarkan-tim-mtsn-1-lumajang-masuk-top-4-indonesia-aerospace-hackathon-2025)
+    [Dinas Kominfo Jatim](https://kominfo.jatimprov.go.id/berita/aplikasi-planetarium360-antarkan-tim-mtsn-1-lumajang-masuk-top-4-indonesia-aerospace-hackathon-2025)  
+    [Mimbar Kemenag](https://www.mpajatim.com/auth/news_detail/mts-negeri-1-lumajang-generasi-emasnya-raih-juara-coding-internasional)  
+    [Binus](https://socs.binus.ac.id/2025/06/28/mahasiswi-data-science-binus-university-raih-penghargaan-aplikasi-terbaik-di-indonesia-aerospace-hackathon-2025)  
+
 
 6. **2025 - Semifinalis OPSI 2025 - Puspresnas**  
     *Olimpiade Penelitian Siswa Indonesia 2025.*  
@@ -90,16 +96,18 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
 
     ![Keterangan](/assets/img/irtc_2025.png)  
     Referensi:  
-    [Pemenang IRTC](https://rapmafm-ukm.ums.ac.id/2025/01/dua-siswa-man-1-pasuruan-raih-medali.html)  
+    [Pemenang IRTC 2025](https://rapmafm-ukm.ums.ac.id/2025/01/dua-siswa-man-1-pasuruan-raih-medali.html)  
 
 8. **2024 - Gold Indonesian Scratch Competition 2024 - Puspresnas**  
-    *Coding game animation by Scratch.*  
+    *Coding game animation by Scratch STEM-SPARK 2024, Universitas Langlangbuana, Bandung.*  
 
     ![Keterangan](/assets/img/isc_2024.png)  
     Referensi:  
     [Fitalenta](https://isc.fitalenta.co.id/projects)  
     [Pembuatan Project](https://www.youtube.com/watch?v=ezdoBcfuRQU)  
-    [Awarding Pemenang](https://www.youtube.com/live/1mCWyoKpBj0?si=AUxDArBQN8U0P0K6&t=4951) 
+    [Awarding Pemenang](https://www.youtube.com/live/1mCWyoKpBj0?si=AUxDArBQN8U0P0K6&t=4951)  
+    [Berita](https://bilikwarta.com/mtsn-1-lumajang-raih-juara-1-di-indonesian-scratch-competition-stem-spark-2024/) 
+
 
 9. **2024 - Perak International Scratch Olympiad 2024**  
     *Coding game animation by Scratch.*  
@@ -128,6 +136,8 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
 12. **2023 - Juara 2 Lomba Scratch Coding Elass 2023**  
 
     ![Keterangan](/assets/img/erlass_2023.png)  
+    Referensi:  
+    [Awarding Pemenang](https://m.youtube.com/watch?v=U3F9Dw6B-Jg)      
 
 12. **2023 - Juara 1 Kodingbean Kompetisi Coding Nasional 2023**  
 
