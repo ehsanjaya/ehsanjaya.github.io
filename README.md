@@ -2,7 +2,7 @@
 
 ![Pramarta Ehsan Jaya](/assets/img/ehsan.png)
 
-14 tahun | Lumajang, Jawa Timur  
+13 tahun | Lumajang, Jawa Timur  
 pramartaej@gmail.com  
 0851-8685-3020  
 [github.com/ehsanjaya](https://github.com/ehsanjaya)  
