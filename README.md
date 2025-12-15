@@ -34,14 +34,16 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     Referensi:  
     [Pangkalan Data Kekayaan Intelektual](https://pdki-indonesia.dgip.go.id/link/45433030323032353138353239307c636f70797269676874) 
 
-2. **2025 - Bina Talenta Indonesia - Puspresnas**  
+2. **2025 - Juara 1 Bina Talenta Indonesia - Puspresnas**  
     *Juara 1 The Best Project Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas. Judul aplikasi: Bisa Mandiri, Asisten AI Mobile Untuk Membantu Tuna Grahita Mengenal Obyek*  
 
     ![BTI](/assets/img/bti_2025_1.png)  
     ![BTI](/assets/img/bti_2025_2.png)   
+     ![BTI](/assets/img/bti_2025_4.png)  
 
     Referensi:  
-    [Bina Talenta Indonesia](https://binatalenta.kemendikdasmen.go.id) 
+    [Bina Talenta Indonesia](https://binatalenta.kemendikdasmen.go.id)  
+    [Bisa Mandiri](https://github.com/ehsanjaya/bisamandiri) 
 
 3. **2025 - Gold Bidang Inovasi Berbasis Kemanusiaan dan Sosial InYSIA 2025 - Proses Puspresnas**  
     *Indonesia Young Scientists and Inventors Award 2025 (Abak Academy), Universitas Gajah Mada (UGM), Yogyakarta.*  
