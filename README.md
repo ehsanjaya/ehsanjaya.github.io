@@ -35,7 +35,10 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [Pangkalan Data Kekayaan Intelektual](https://pdki-indonesia.dgip.go.id/link/45433030323032353138353239307c636f70797269676874) 
 
 2. **2025 - Bina Talenta Indonesia - Puspresnas**  
-    *Terpilih dari seleksi 5000 peserta seluruh Indonesia untuk mengikuti program pembinaan talenta berprestasi bidang Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas.*
+    *Juara 1 The Best Project Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas. Judul aplikasi: Bisa Mandiri, Asisten AI Mobile Untuk Membantu Tuna Grahita Mengenal Obyek*  
+
+    ![BTI](/assets/img/bti_2025_1.png)  
+    ![BTI](/assets/img/bti_2025_2.png)   
 
     Referensi:  
     [Bina Talenta Indonesia](https://binatalenta.kemendikdasmen.go.id) 
