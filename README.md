@@ -126,9 +126,6 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     *Game Animation Scratch, Surabaya.*  
 
     ![Keterangan](/assets/img/irtc_2024.png)  
-    Referensi:  
-    [Creative Programming](https://creativeprogramming.org/)  
-    [Pemenang](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_LsrbCla-k-n4MCEyAa8WUxYI6xCJMAzdb8F43iRBvfG35iekVD0w-8MkZhKKTQ/pubhtml) 
 
 11. **2024 - Best Script Information Technology Creative Competition 2024**  
     *Teknologi Informasi, Fakultas Teknik, Universitas Udayana, Bali.*  
