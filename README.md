@@ -39,6 +39,8 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
 
     ![BTI](/assets/img/bti_2025_1.png)  
     ![BTI](/assets/img/bti_2025_2.png)    
+    ![BTI](/assets/img/bti_2025_3.png)    
+    ![BTI](/assets/img/bti_2025_4.png)    
 
     Referensi:  
     [Bina Talenta Indonesia](https://binatalenta.kemendikdasmen.go.id)  
