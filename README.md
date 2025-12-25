@@ -73,9 +73,10 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [planetarium360.github.io](https://planetarium360.github.io/)
 
     ![Sertifikat](/assets/img/apsat_2025.png)  
-    ![APSAT](/assets/img/apsat_2025_1.png)  
-    ![Booth](/assets/img/apsat_2025_2.png)  
-    ![PSN](/assets/img/apsat_2025_3.png)  
+    ![Sertifikat](/assets/img/apsat_2025_1.png)  
+    ![APSAT](/assets/img/apsat_2025_2.png)  
+    ![Booth](/assets/img/apsat_2025_3.png)  
+    ![PSN](/assets/img/apsat_2025_4.png)  
   
     Referensi:  
     [ASSI](https://www.instagram.com/p/DL9jJ-2Tib4/)     
