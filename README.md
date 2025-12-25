@@ -37,7 +37,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
 2. **2025 - Juara 1 Bina Talenta Indonesia - Puspresnas**  
     *Juara 1 The Best Project Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas. Judul aplikasi: Bisa Mandiri, Asisten AI Mobile Untuk Membantu Tuna Grahita Mengenal Obyek*  
 
-    ![BTI](/assets/img/bti_2025_1.png)  
+    ![BTI](/assets/img/bti_2025.png)  
     ![BTI](/assets/img/bti_2025_2.png)    
     ![BTI](/assets/img/bti_2025_3.png)    
     ![BTI](/assets/img/bti_2025_4.png)    
@@ -73,7 +73,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [planetarium360.github.io](https://planetarium360.github.io/)
 
     ![Sertifikat](/assets/img/apsat_2025.png)  
-    ![Sertifikat](/assets/img/apsat_2025_1.png)  
+    ![APSAT](/assets/img/apsat_2025_1.png)  
     ![APSAT](/assets/img/apsat_2025_2.png)  
     ![Booth](/assets/img/apsat_2025_3.png)  
     ![PSN](/assets/img/apsat_2025_4.png)  
