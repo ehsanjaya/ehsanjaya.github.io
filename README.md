@@ -38,9 +38,10 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     *Juara 1 The Best Project Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas. Judul aplikasi: Bisa Mandiri, Asisten AI Mobile Untuk Membantu Tuna Grahita Mengenal Obyek*  
 
     ![BTI](/assets/img/bti_2025.png)  
+    ![BTI](/assets/img/bti_2025_1.png)  
     ![BTI](/assets/img/bti_2025_2.png)    
     ![BTI](/assets/img/bti_2025_3.png)    
-    ![BTI](/assets/img/bti_2025_4.png)    
+
 
     Referensi:  
     [Bina Talenta Indonesia](https://binatalenta.kemendikdasmen.go.id)  
