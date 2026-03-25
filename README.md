@@ -7,7 +7,7 @@ pramartaej@gmail.com
 0851-8685-3020  
 4 Kurasi [Puspresnas](https://simt.kemendikdasmen.go.id/resume?id=7aRFGGMBbE_kc-US-WZlSQ&name=pramarta-ehsan-jaya) (satu dalam proses verifikasi)  
 [github.com/ehsanjaya](https://github.com/ehsanjaya)  
-:star: 
+
 ***
 
 ## Riwayat Pendidikan
