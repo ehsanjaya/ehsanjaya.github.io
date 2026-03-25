@@ -14,7 +14,7 @@ pramartaej@gmail.com
 
 - 2024 - MTS Negeri 1 Lumajang  
 - 2021 - Homeschooling  
-- 2019 - SDN 3 Tompokersan Lumajang
+- 2019 - SDN 3 Tompokersan Lumajang 
 
 ***
 
