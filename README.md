@@ -44,7 +44,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [Pangkalan Data Kekayaan Intelektual](https://pdki-indonesia.dgip.go.id/link/45433030323032353138353239307c636f70797269676874) 
 
 3. **2025 - Juara 1 Bina Talenta Indonesia - Puspresnas**  
-    *Juara 1 The Best Project Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas. Judul aplikasi: Bisa Mandiri, Asisten AI Mobile Untuk Membantu Tuna Grahita Mengenal Obyek*  
+    *Terpilih sebagai The Best Coder dan Juara 1 The Best Project Koding dan Kecerdasan Artifisial (KKA) di Universitas Padjadjaran (Unpad), Jatinangor, 7-13 Desember 2025 yang diselenggarakan oleh Puspresnas. Judul aplikasi: Bisa Mandiri, Asisten AI Mobile Untuk Membantu Tuna Grahita Mengenal Obyek*  
 
     ![BTI](/assets/img/bti_2025.png)  
     ![BTI](/assets/img/bti_2025_1.png)  
@@ -56,7 +56,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [Bina Talenta Indonesia](https://binatalenta.kemendikdasmen.go.id)  
     [Bisa Mandiri](https://github.com/ehsanjaya/bisamandiri) 
 
-4. **2025 - Gold Bidang Inovasi Berbasis Kemanusiaan dan Sosial InYSIA 2025 - Terkurasi Puspresnas**  
+4. **2025 - Gold Bidang Inovasi Berbasis Kemanusiaan dan Sosial InYSIA 2025 (Terkurasi Puspresnas)**  
     *Indonesia Young Scientists and Inventors Award 2025 (Abak Academy), Universitas Gajah Mada (UGM), Yogyakarta.*  
     [emurojaahquran.github.io](https://emurojaahquran.github.io/)
 
@@ -67,7 +67,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [InYSIA](https://inysia.com/finalis-inysia-jenjang-smp-mts-sederajat)  
     [Pemenang InYSIA](https://www.youtube.com/live/JXrVFrt_8IY?si=M_hy06JoxzwXHJhv)
 
-5. **2025 - Juara 2 Bidang Komputer Lomba Peneliti Belia PUTech 2025 - Terkurasi Puspresnas**  
+5. **2025 - Juara 2 Bidang Komputer Lomba Peneliti Belia PUTech 2025 (Terkurasi Puspresnas)**  
     *Lomba Peneliti Belia & International Scientific Paper Competition 2025, Politeknik PU (PUtech) Semarang.*  
     
     ![Sertifikat](/assets/img/lpb_2025.png)  
@@ -77,7 +77,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     [Berita Jatim](https://beritajatim.com/pelajar-madrasah-lumajang-raih-prestasi-tingkat-nasional)  
     [Politeknik PU](https://politeknikpu.ac.id/2025/09/05/putechnovation-2025-resmi-ditutup-inilah-para-pemenang-lpb-dan-lkti)
     
-6. **2025 - Best Top 4 Indonesia Aerospace Hakathon 2025 - Terkurasi Puspresnas**  
+6. **2025 - Best Top 4 Indonesia Aerospace Hakathon 2025 (Terkurasi Puspresnas)**  
     *Satu-satunya peserta sekolah menengah pertama yang terpilih best top 4 diantara mahasiswa UI, PENS, Binus dan UPN di 21st Asia Pacific Satellite International Conference Hakathon 2025 diselenggarakan Asosiasi Satelit Seluruh Indonesia (ASSI), Fairmont Hotel Jakarta.*  
 
     [planetarium360.github.io](https://planetarium360.github.io/)
@@ -115,7 +115,7 @@ C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO
     Referensi:  
     [Pemenang IRTC 2025](https://rapmafm-ukm.ums.ac.id/2025/01/dua-siswa-man-1-pasuruan-raih-medali.html)  
 
-10. **2024 - Gold Indonesian Scratch Competition 2024 - Terkurasi Puspresnas**  
+10. **2024 - Gold Indonesian Scratch Competition 2024 (Terkurasi Puspresnas)**  
     *Coding game animation by Scratch STEM-SPARK 2024, Universitas Langlangbuana, Bandung.*  
 
     ![Keterangan](/assets/img/isc_2024.png)  
