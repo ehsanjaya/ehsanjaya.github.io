@@ -14,8 +14,8 @@ pramartaej@gmail.com
 ## Riwayat Pendidikan
 
 - 2026 - Scholarship awardee SMA ABBS, Klaten
-- 2025 - Scholarship awardee SMA Global Darussalam Academy, Jogja
-- 2025 - Scholarship awardee SMA RUSHD, Sragen
+- 2026 - Scholarship awardee SMA Global Darussalam Academy, Jogja
+- 2026 - Scholarship awardee SMA RUSHD, Sragen
 - 2024 - MTS Negeri 1 Lumajang
 - 2021 - Homeschooling
 - 2019 - SDN 3 Tompokersan Lumajang
