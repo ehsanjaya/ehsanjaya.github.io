@@ -31,7 +31,7 @@ C++ | C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO | IoT | ESP3
 ## Prestasi
 
 1. **2026 - Juara 2 Imajination 2026**  
-   _Juara 1 kategori Coding Assemblr kategori Battle Coding Makers 2026 di Kemendikdasmen, 9 November 2026_
+   _Juara 1 kategori Coding Assemblr kategori Battle Coding Makers 2026 di Kemendikdasmen, 5 November 2026_
 
    ![Assemblr](/assets/img/imajination_2026_1.jpg)  
    ![Assemblr](/assets/img/imajination_2026_2.jpg)
