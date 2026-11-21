@@ -34,6 +34,7 @@ C++ | C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO | IoT | ESP3
    _Juara 2 kategori Battle Coding Makers Assemblr 2026 di Kemendikdasmen, Jakarta, 5 November 2026_
 
    ![Assemblr](/assets/img/imajination_2026_1.jpg)  
+   ![Assemblr](/assets/img/imajination_2026_3.jpg)  
    ![Assemblr](/assets/img/imajination_2026_2.jpg)
 
    Referensi:  
