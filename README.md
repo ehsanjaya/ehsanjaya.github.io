@@ -31,7 +31,7 @@ C++ | C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO | IoT | ESP3
 ## Prestasi
 
 1. **2026 - Juara 2 Imajination 2026**  
-   _Juara 1 kategori Coding Assemblr kategori Battle Coding Makers 2026 di Kemendikdasmen, 5 November 2026_
+   _Juara 2 kategori Battle Coding Makers Assemblr 2026 di Kemendikdasmen, Jakarta, 5 November 2026_
 
    ![Assemblr](/assets/img/imajination_2026_1.jpg)  
    ![Assemblr](/assets/img/imajination_2026_2.jpg)
@@ -40,7 +40,10 @@ C++ | C# | Kotlin | Python | Unity | Android Jetpack Compose | YOLO | IoT | ESP3
    [Karya](https://www.youtube.com/watch?v=VvL41FjYbQs)  
    [Assemblr Imajination 2026](https://edu.assemblrworld.com/id/imajination-2026)  
    [Antara](https://www.antaranews.com/berita/5837599/kemendikdasmen-assemblr-edu-hadirkan-ruang-kembangkan-talenta-digital)  
-   [Gubernur Jatim](https://www.instagram.com/p/Dfd5q80BQbU)
+   [Gubernur Jatim](https://www.instagram.com/p/Dfd5q80BQbU)  
+   [Seminal](https://www.youtube.com/watch?v=UE8stVH02F0)  
+   [Final](https://www.youtube.com/watch?v=iMXL4qFYNLU)  
+   [Penganugerahan](https://www.youtube.com/watch?v=ZFRXiFvcjHM)
 
 2. **2026 - Juara 1 Coding & Game Competition**  
    _Juara 1 kategori Coding & Game ABBS Talent Fest 2026 di SMA ABBS, Klaten, 26 Agustus 2026_
